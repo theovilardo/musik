@@ -1,14 +1,14 @@
 [
   {
     "name": "First Wallpaper",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "url": "https://raw.githubusercontent.com/theovilardo/musik/main/1511.WWDC_2020_Warm_Light-375w-667h%402xiphone-550x550.jpg"
   },
   {
     "name": "Second Wallpaper",
-    "url": "https://www.example.com/second-wallpaper.png"
+    "url": "https://raw.githubusercontent.com/theovilardo/musik/main/iOS-14-RED-Wallpaper-Mod.png"
   },
   {
     "name": "Third Wallpaper",
-    "url": "https://www.example.com/third-wallpaper.png"
+    "url": "https://raw.githubusercontent.com/theovilardo/musik/main/macOS-Big-Sur-Mod-Wallpaper-2.png"
   }
 ]
